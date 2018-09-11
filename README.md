@@ -4,7 +4,7 @@
 多按钮选择器功能，app开发中很常见的功能
 
 ## 下载地址
-https://github.com/xinru/RXMultiButtonSelection.git
+https://github.com/xinru/RXMultiButtonsView.git
 
 ## 效果图
 ![效果图.gif](https://upload-images.jianshu.io/upload_images/6207663-9b682243090aa005.gif?imageMogr2/auto-orient/strip)
